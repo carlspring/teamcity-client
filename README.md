@@ -1,1 +1,1 @@
-This is a client for invoking commands to TeamCity via REST API.
+This is a Java client for invoking commands to TeamCity via REST API.
